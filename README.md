@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shradha Bhardwaj</h1>
 <h3 align="center">AI Enthusiast exploring every frontier of artificial intelligence | From classical ML algorithms to Deep neural networks to cutting-edge Gen AI, RAG systems | Building intelligent solutions that spans across domains. | Eternally curious AI builder | Turning curiosity into code across every corner of the AI universe ✨</h3>
 
-- 🔭 I’m currently working on **LLM's and Agents**
+- 🔭 I’m currently working on **LLM's and Multi Agent Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shradhabhardwaj]
 
